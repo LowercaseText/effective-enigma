@@ -1,0 +1,14 @@
+C:\Users\georg\source\repos\StickmanExit\StickmanExit\bin\Debug\netcoreapp3.1\StickmanExit.exe
+C:\Users\georg\source\repos\StickmanExit\StickmanExit\bin\Debug\netcoreapp3.1\StickmanExit.deps.json
+C:\Users\georg\source\repos\StickmanExit\StickmanExit\bin\Debug\netcoreapp3.1\StickmanExit.runtimeconfig.json
+C:\Users\georg\source\repos\StickmanExit\StickmanExit\bin\Debug\netcoreapp3.1\StickmanExit.runtimeconfig.dev.json
+C:\Users\georg\source\repos\StickmanExit\StickmanExit\bin\Debug\netcoreapp3.1\StickmanExit.dll
+C:\Users\georg\source\repos\StickmanExit\StickmanExit\bin\Debug\netcoreapp3.1\StickmanExit.pdb
+C:\Users\georg\source\repos\StickmanExit\StickmanExit\obj\Debug\netcoreapp3.1\StickmanExit.csproj.AssemblyReference.cache
+C:\Users\georg\source\repos\StickmanExit\StickmanExit\obj\Debug\netcoreapp3.1\StickmanExit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\source\repos\StickmanExit\StickmanExit\obj\Debug\netcoreapp3.1\StickmanExit.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\StickmanExit\StickmanExit\obj\Debug\netcoreapp3.1\StickmanExit.AssemblyInfo.cs
+C:\Users\georg\source\repos\StickmanExit\StickmanExit\obj\Debug\netcoreapp3.1\StickmanExit.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\StickmanExit\StickmanExit\obj\Debug\netcoreapp3.1\StickmanExit.dll
+C:\Users\georg\source\repos\StickmanExit\StickmanExit\obj\Debug\netcoreapp3.1\StickmanExit.pdb
+C:\Users\georg\source\repos\StickmanExit\StickmanExit\obj\Debug\netcoreapp3.1\StickmanExit.genruntimeconfig.cache

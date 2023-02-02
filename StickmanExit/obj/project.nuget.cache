@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o+OIjNyMzsTEWj/qnF2CuHIXU9GoIGSriqzcEbE42IffrrtaBvJm/gpiDhl5d245pXf8E26JlIXLbMgaU75wyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\georg\\source\\repos\\StickmanExit\\StickmanExit\\StickmanExit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
